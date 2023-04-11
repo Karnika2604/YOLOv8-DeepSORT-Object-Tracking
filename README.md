@@ -5,7 +5,7 @@
 # Steps to run Code
 ## Clone the repository
 
-!git clone https://github.com/noorkhokhar99/YOLOv8-Object-Detection-with-DeepSORT-Tracking.git
+!git clone https://github.com/Karnika2604/YOLOv8-Object-Detection-with-DeepSORT-Tracking.git
 
 # Goto cloned folder
 %cd YOLOv8-Object-Detection-with-DeepSORT-Tracking
